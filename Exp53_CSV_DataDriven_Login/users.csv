@@ -1,0 +1,13 @@
+username,password,expected_code
+student01,Pract!ce431,200
+student02,Pract!ce254,200
+student03,Pract!ce504,200
+student04,Pract!ce766,200
+student05,Pract!ce149,200
+student06,Pract!ce174,200
+student07,Pract!ce940,200
+student08,Pract!ce648,200
+student01,wrongpass,401
+student02,12345,401
+unknownuser,Nothing@1,401
+admin,admin,401
